@@ -160,7 +160,7 @@ Rules are evaluated top-to-bottom; first match wins. Only packets that pass all 
 - Administrator privileges
 
 ### Python (ML inference server)
-- Python 3.8+
+- Python 3
 - Dependencies:
 
 ```
